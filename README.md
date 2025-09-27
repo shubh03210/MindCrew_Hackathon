@@ -13,7 +13,7 @@ It provides early detection, severity scoring, and actionable health suggestions
 - Provides a **severity scale (1–5)** for each case.  
 
 📸 Screenshot:  
-![Symptom Input & Disease Prediction](Screenshot 2025-09-27 152444.png)
+![Symptom Input & Disease Prediction]("Screenshot 2025-09-27 152444.png")
 
 ---
 
