@@ -10,10 +10,16 @@ It provides early detection, severity scoring, and actionable health suggestions
 ### 1️⃣ Symptom-Based Disease Prediction
 - Accepts user input such as: `fever`, `cough`, `laziness`, `red eyes`, etc.  
 - Predicts possible diseases based on symptoms.  
-- Provides a **severity scale (1–5)** for each case.  
+- Provides a **severity scale (1–5)** for each case.
 
-📸 Screenshot:  
-![Symptom Input & Disease Prediction]("Screenshot 2025-09-27 152444.png")
+- 🔗 **[Live Demo – Try Disease Prediction](https://preview--health-compass-check.lovable.app/)**
+
+
+
+📸 Screenshots:  
+![Disease Prediction Screenshot 1](Screenshot%202025-09-27%20153202.png)  
+![Disease Prediction Screenshot 2](Screenshot%202025-09-27%20153107.png)  
+
 
 ---
 
@@ -23,7 +29,7 @@ It provides early detection, severity scoring, and actionable health suggestions
 - Provides conversational support to patients anytime.  
 
 📸 Screenshot:  
-![Health Chatbot](/assets/chatbot.png)
+![Chatbot](Screenshot%202025-09-27%20152617.png)  
 
 ---
 
@@ -34,7 +40,7 @@ It provides early detection, severity scoring, and actionable health suggestions
 - Provides AI-driven **suggestions, do’s & don’ts, and follow-up recommendations**.  
 
 📸 Screenshot:  
-![CT Scan Heatmap](/assets/ctscan_heatmap.png)
+![CT Scan AI Model](Screenshot%202025-09-27%20152444.png)  
 
-🧠 **Sample Output:**  
+🧠 **Due to large size of LLM(MedVit),libraries like:pytorch. git hub doesnot all to push the whole code**  
 
